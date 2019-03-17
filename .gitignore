@@ -1,3 +1,13 @@
+# Project
+.idea/
+.ipynb_*/
+data/
+data_clean/
+logs/
+models/
+ssd_*/
+ssd_*.tar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

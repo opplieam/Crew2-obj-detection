@@ -6,7 +6,7 @@ data_clean/
 logs/
 models/
 ssd_*/
-ssd_*.tar
+ssd_*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
